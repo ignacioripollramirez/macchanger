@@ -10,6 +10,6 @@ for more help run:
 
 ## Disclaimer & License
 
-This script is licensed under LGPLv3+.
+This script is licensed under LGPLv3+: [License](https://github.com/ignacioripollramirez/macchanger/blob/main/LICENSE).
 
 Macchanger should be used for authorized penetration testing and/or nonprofit educational purposes only. Any misuse of this software will not be the responsibility of the author or of any other collaborator. Use it at your own servers and/or with the server owner's permission.
